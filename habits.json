@@ -1,0 +1,36 @@
+[ {
+  "id" : 1,
+  "name" : "Treinar",
+  "description" : "",
+  "category" : "Saúde",
+  "active" : false,
+  "score" : 1
+}, {
+  "id" : 2,
+  "name" : "Agradecer",
+  "description" : "",
+  "category" : "Saúde",
+  "active" : false,
+  "score" : 1
+}, {
+  "id" : 3,
+  "name" : "Meditar",
+  "description" : "",
+  "category" : "Saúde",
+  "active" : false,
+  "score" : 1
+}, {
+  "id" : 4,
+  "name" : "Orar",
+  "description" : "",
+  "category" : "Saúde",
+  "active" : false,
+  "score" : 1
+}, {
+  "id" : 5,
+  "name" : "Beber Àgua",
+  "description" : "",
+  "category" : "Saúde",
+  "active" : false,
+  "score" : 1
+} ]
